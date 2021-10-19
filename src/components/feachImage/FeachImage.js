@@ -53,21 +53,23 @@ class FeachImage extends Component {
 
     clearList() {
         this.setState({
-            images: []
+            images: [],
+            isVisible: false,
+
         })
         toast.error('Nothing not found')
         return;
     }
     
     onLoadMore = () => {
-        this.setState({ loading: true });
+        this.setState({ loading: true, isVisible: false, });
          PixabayAPI.fetchImage( this.props.name, this.state.page )
               .then(res => this.setState(({ images, page }) => {
                   return {
                       images: [...images, ...res.hits],
                       page: page + 1
                     }
-              })).finally(() => this.setState({loading: false}))
+              })).finally(() => this.setState({loading: false, isVisible: true,}))
           
     }
 
