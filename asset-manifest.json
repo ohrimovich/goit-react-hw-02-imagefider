@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-imagefider/static/css/main.66ad0f6c.chunk.css",
+    "main.js": "/goit-react-hw-03-imagefider/static/js/main.0a91b8ab.chunk.js",
+    "main.js.map": "/goit-react-hw-03-imagefider/static/js/main.0a91b8ab.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-imagefider/static/js/runtime-main.35871acf.js",
+    "runtime-main.js.map": "/goit-react-hw-03-imagefider/static/js/runtime-main.35871acf.js.map",
+    "static/css/2.3f4a0cdf.chunk.css": "/goit-react-hw-03-imagefider/static/css/2.3f4a0cdf.chunk.css",
+    "static/js/2.4e8f1ce5.chunk.js": "/goit-react-hw-03-imagefider/static/js/2.4e8f1ce5.chunk.js",
+    "static/js/2.4e8f1ce5.chunk.js.map": "/goit-react-hw-03-imagefider/static/js/2.4e8f1ce5.chunk.js.map",
+    "index.html": "/goit-react-hw-03-imagefider/index.html",
+    "static/css/2.3f4a0cdf.chunk.css.map": "/goit-react-hw-03-imagefider/static/css/2.3f4a0cdf.chunk.css.map",
+    "static/css/main.66ad0f6c.chunk.css.map": "/goit-react-hw-03-imagefider/static/css/main.66ad0f6c.chunk.css.map",
+    "static/js/2.4e8f1ce5.chunk.js.LICENSE.txt": "/goit-react-hw-03-imagefider/static/js/2.4e8f1ce5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35871acf.js",
+    "static/css/2.3f4a0cdf.chunk.css",
+    "static/js/2.4e8f1ce5.chunk.js",
+    "static/css/main.66ad0f6c.chunk.css",
+    "static/js/main.0a91b8ab.chunk.js"
+  ]
+}
